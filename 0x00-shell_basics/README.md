@@ -7,3 +7,5 @@
 3-listfiles script
 
 4-listmorefiles script
+
+5-listfilesdigitonly script
