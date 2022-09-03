@@ -14,3 +14,5 @@
 10-mirror_permissions script
 
 13-change_group
+
+6-multiple_permissions
